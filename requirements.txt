@@ -1,0 +1,6 @@
+pandas
+pyarrow
+fastparquet
+h3
+matplotlib
+scikit-learn
